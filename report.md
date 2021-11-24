@@ -17,7 +17,7 @@
 
 
 В качестве тестовых данных использовались данные [задания № 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer):
-* При сложении переменных [кода](https://github.com/Sormat59/Java-DZ-1/blob/4519e8df82bf4f5e557d6c4cfb21294db444bfdf/src/Main.java#L1-L9) :balance 2 000 000 000 + transfer 500 000 000, сумма значений равна 2 500 000 000
+* При сложении переменных [кода](https://github.com/Sormat59/Java-DZ-1/blob/4519e8df82bf4f5e557d6c4cfb21294db444bfdf/src/Main.java#L1-L9) :balance 2 000 000 000 + transfer 500 000 000, ожидаемый результат суммы значений равен 2 500 000 000
 
 
 Тестирование производилось в следующем окружении:
